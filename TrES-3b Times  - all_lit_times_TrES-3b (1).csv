@@ -1,7 +1,3 @@
-# Candidate,TrES-3b,,,,,
-# Period,1.306186348,,,,,
-# All data spans days,5936.616811,,,,,
-# All data spans years,16.3,,,,,
 Epoch,Midtime,Midtime_err_minus_days,Midtime_err_plus_days,Midtime_err_minus_sec,Midtime_err_plus_sec,Source
 -1713,2454185.911,0.00021,0.00021,18.14,18.14,2013AJ....145...68J; 2009ApJ...691.1145S
 -1703,2454198.974,0.00066,0.00066,57.02,57.02,2013AJ....145...68J; 2009ApJ...691.1145S
